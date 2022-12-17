@@ -1,6 +1,6 @@
    [![MasterHead](https://thumbs.dreamstime.com/b/beach-banner-38366857.jpg)](https://www.linkedin.com/in/augustus-shaminga-570519218/)
 <h1 align="center">Hi 👋, I'm Augustus Shaminga</h1>
-<h3 align="center">Logic is my superpower</h3>
+<h3 align="center">JavaScript is my superpower</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaminga6&label=Profile%20views&color=0e75b6&style=flat" alt="shaminga6" /> </p>
